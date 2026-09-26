@@ -15,3 +15,7 @@ npm start
 
 The API uses SQLite and creates `backend/data/stocksense.db` automatically.
 See [`backend/README.md`](./backend/README.md) for authentication and inventory endpoint details.
+## live link:
+```
+https://itsme-sudo.github.io/StockSense-hacakathon/
+```
