@@ -19,3 +19,5 @@ See [`backend/README.md`](./backend/README.md) for authentication and inventory 
 ```
 https://itsme-sudo.github.io/StockSense-hacakathon/
 ```
+### NOTE
+LIVE Link is only prototype and backend and auth verification you have to setup first for security measure it is vibe code web site my solo odoo x lpu collaborate project 
